@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "759968369365",
+    "firebase_url": "https://cmfirebase-c0d98.firebaseio.com",
+    "project_id": "cmfirebase-c0d98",
+    "storage_bucket": "cmfirebase-c0d98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759968369365:android:3a6cc13b1bab86f0",
+        "android_client_info": {
+          "package_name": "com.example.taochiz.sharelo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759968369365-pnua789u8f5tie6sgc34a28i1li84bf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taochiz.sharelo",
+            "certificate_hash": "55f81ed020db4f022c1a8f6c2707130d075087ed"
+          }
+        },
+        {
+          "client_id": "759968369365-qstiqu7ubuht0ps4u3r5onb2tlmehv3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK1tKaekunCYzTbe2Ipghj9EF0IwGhYE8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759968369365-qstiqu7ubuht0ps4u3r5onb2tlmehv3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ShareLo</string>
+    <string name="btnRegister">Register</string>
+    <string name="btnBackRegis">Back</string>
+    <string name="action_settings">Settings</string>
+</resources>
